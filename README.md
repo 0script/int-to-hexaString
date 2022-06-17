@@ -20,7 +20,6 @@
 
 
 ##Setup
-    * Download the project and open the index.html in your web browser:
 
 ```shell
 $git clone git@github.com:0script/int-to-hexaString.git
